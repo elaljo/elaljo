@@ -2,7 +2,9 @@
 
 🛠| I’m currently working on cub3d
 
-👯| Currently learning C and C++                                                                                                                                                 
+👯| Currently learning C and C++                                                                                                                                            
+
+
 🎓| 1337 coding school student (42 Network)                                                                                              
 
 📫| Reach me: elaljooo@gmail.com
