@@ -1,6 +1,6 @@
 ### Hi there 👋
 👯| Currently learning C and C++                                                                                                                                                 
-🎓| 1337 coding school student (42 Network)
+🎓| 1337 coding school student (42 Network)                                                                                                                                 
 📫| Reach me: elaljooo@gmail.com
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/moelalj" alt="moelalj's 42 stats" /></a>
