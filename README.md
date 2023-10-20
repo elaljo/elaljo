@@ -1,5 +1,5 @@
 ### Hi there 👋
-👯| Currently learning C and C++
+👯| Currently learning C and C++                                                                                                                                                 
 🎓| 1337 coding school student (42 Network)
 📫| Reach me: elaljooo@gmail.com
 
