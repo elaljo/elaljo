@@ -73,7 +73,7 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
 ### ☁️ Frontend & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,css,html" alt="Frontend & Web" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,css,html" alt="Frontend & Web" />
 </p>
 
 ### 💻 Programming Languages
@@ -82,16 +82,10 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
   <img src="https://skillicons.dev/icons?i=c,cpp,python,flask,bash" alt="Programming Languages" />
 </p>
 
-### 🗄️ Databases & Storage
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
-</p>
-
 ### 🛠️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim,postman" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim" alt="Development Tools" />
 </p>
 
 </div>
@@ -106,17 +100,15 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud Infrastructure Projects
+### ☁️ Frontend & AI Projects
 
-**🚀 Cloud-1 Project**
-_Cloud deployment & automation_
+**🏎️ F1 Hub News Project**
 
 **Tech Stack:**
 
-- **Containers**: Docker, Kubernetes
-- **Infrastructure**: Terraform, Cloud
-- **Monitoring**: Prometheus, Grafana
-- **CI/CD**: GitHub Actions, ArgoCD
+- **Frontend**: React, Next.js, TypeScript, JavaScript, HTML, CSS
+- **API Integration**: REST API to fetch live news and F1 data
+- **Design & UX**: Responsive layout, interactive components, easy navigation
 
 </td>
 <td width="50%" valign="top">
@@ -138,12 +130,12 @@ _System programming & algorithms_
 <tr>
 <td width="50%" align="center">
 
-[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mbelouar?tab=repositories)
+[![View Project](https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elaljo?tab=repositories)
 
 </td>
 <td width="50%" align="center">
 
-[![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/mbelouar)
+[![42 Profile](https://img.shields.io/badge/42_Profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/moelalj)
 
 </td>
 </tr>
