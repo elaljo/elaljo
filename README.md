@@ -47,7 +47,7 @@ _Sleek interfaces • Smooth animations • User-friendly designs • Performanc
 ### 💼 Professional Profile
 
 **🎯 Core Expertise**
-_Cloud Architecture • DevOps • IaC_
+_Frontend Development • UI/UX Design • AI Integration_
 
 **💼 Portfolio**
 _[My Portfolio](https://elalj-mohamed.vercel.app/)_
@@ -73,7 +73,7 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
 ### ☁️ DevOps & Cloud Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,nginx" alt="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=React,TypeScript,terraform,azure,nginx" alt="DevOps & Cloud" />
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
