@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ## About Me
 
 **`Software Engineer · Front-End Developer`**
@@ -10,7 +11,7 @@ I'm **Mohamed Elalj**, a passionate computer science student at **UM6P - 1337 ME
 🌟 Always staying ahead of the curve with the latest technological trends and advancements.
 
 ☁️ Passionate about building modern digital experiences, with a strong focus on frontend development, intuitive UI/UX design, and interactive web applications.
-
+</div>
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/black/moelalj" alt="moelalj's 42 stats" />
@@ -148,7 +149,6 @@ _System programming & algorithms_
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🤝 Let's build something amazing together!
 
