@@ -2,11 +2,9 @@
 ### Me:
 🛠| I’m currently working on cub3d
 
-👯| Currently learning C and C++  
+👯| Currently learning Next.js.
 
-👨🏻‍💻| Most of my projects are available on Github
-
-🎓| 1337 coding school student (42 Network)                                                                                              
+👨🏻‍💻| Most of my projects are available on Github                                                                                            
 
 📫| Reach me: elaljooo@gmail.com
 ### 42 Badge:
