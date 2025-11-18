@@ -140,28 +140,6 @@ _System programming & algorithms_
 </td>
 </tr>
 </table>
-
-<details>
-<summary><b> Additional Projects</b></summary>
-<br>
-
-|       **Category**       |      **Description**       |     **Technologies**      | **Status**  |
-| :----------------------: | :------------------------: | :-----------------------: | :---------: |
-| 🌐 **Web Applications**  | Modern responsive web apps |  React, Node.js, MongoDB  | ✅ Complete |
-|   🔧 **System Tools**    |   Command-line utilities   |       C, C++, Bash        | ✅ Complete |
-|  📊 **Data Processing**  |  Analysis & visualization  |      Python, MATLAB       | ✅ Complete |
-| 🤖 **DevOps Automation** | Infrastructure automation  | Docker, Terraform, Python | 🔄 Ongoing  |
-
-</details>
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbelouar&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -170,14 +148,11 @@ _System programming & algorithms_
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🤝 Let's build something amazing together!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mac-bello-os.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:9ba70662-8c5a-4509-aaa6-75afa514f6fb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://elalj-mohamed.vercel.app/)
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" width="100%"/>
 
