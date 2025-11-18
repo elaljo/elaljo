@@ -75,14 +75,6 @@ _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-9
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,css,html" alt="Frontend & Web" />
 </p>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44" style="margin: 0 6px;vertical-align: middle;"/>
-</p>
 
 ### 💻 Programming Languages
 
