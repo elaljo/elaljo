@@ -32,20 +32,18 @@
 
 ## About Me
 
-**`Software Engineer · Cloud & DevOps`**
+**`Software Engineer · Front-End Developer`**
 
-I'm **Mohammed BEL OUARRAQ**, a passionate software engineering student at **ENSA TETOUAN** and computer science student at **UM6P - 1337 MED (42 Network)**.
+I'm **Mohamed Elalj**, a passionate computer science student at **UM6P - 1337 MED (42 Network)**.
 
 🚀 I'm driven by technology and programming, with hands-on experience in problem-solving, teamwork, and project management through various practical projects.
 
 🌟 Always staying ahead of the curve with the latest technological trends and advancements.
-☁️ Passionate about cloud‑native infrastructure, containers, CI/CD, IaC, and observability.
-
-💡 Leadership enthusiast with a passion for building innovative solutions and leading teams to success.
+☁️ Passionate about building modern digital experiences, with a strong focus on frontend development, intuitive UI/UX design, and interactive web applications.
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/black/mbelouar" alt="mbelouar's 42 stats" />
+    <img src="https://badge.mediaplus.ma/black/moelalj" alt="moelalj's 42 stats" />
   </a>
 </div>
 
