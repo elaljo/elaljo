@@ -29,17 +29,17 @@ I'm **Mohamed Elalj**, a passionate computer science student at **UM6P - 1337 ME
 
 ### 🚀 Active Development
 
-**🔭 Cloud-Native Solutions**
-_Modern application architecture & deployment_
+**🔭 Building interactive web applications**
+_with AI integrations and modern frontend frameworks_
 
-**☁️ Cloud Infrastructure**
-_AWS • Azure • GCP_
+**☁️ Frontend & Design**
+_React • Next.js • HTML • CSS • JavaScript • Responsive UI/UX_
 
-**🚀 DevOps Pipeline**
-_Kubernetes • Terraform • CI/CD_
+**🚀 AI & APIs**
+_OpenAI API • Function Calling • Dynamic, real-time interactions_
 
-**📊 Monitoring & Observability**
-_Prometheus • Grafana • Alerting_
+**📊 Project Enhancements**
+_Sleek interfaces • Smooth animations • User-friendly designs • Performance optimization_
 
 </td>
 <td width="50%" valign="top">
@@ -50,10 +50,10 @@ _Prometheus • Grafana • Alerting_
 _Cloud Architecture • DevOps • IaC_
 
 **💼 Portfolio**
-_[GitHub Repositories](https://github.com/mbelouar?tab=repositories)_
+_[My Portfolio](https://elalj-mohamed.vercel.app/)_
 
 **📧 Contact**
-*medbelouarraq@gmail.com*
+*elaljooo@gmail.com*
 
 **📄 Resume**
 _[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-995b-7afaaba5d104)_
