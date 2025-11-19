@@ -6,9 +6,9 @@
 
 I'm **Mohamed Elalj**, a passionate computer science student at **UM6P - 1337 MED (42 Network)**.
 
-☁️ Passionate about building modern digital experiences, with a strong focus on frontend development, intuitive UI/UX design, and interactive web applications.
+Passionate about building modern digital experiences, with a strong focus on frontend development, intuitive UI/UX design, and interactive web applications.
 
-🌟 Always staying ahead of the curve with the latest technological trends and advancements.
+Always staying ahead of the curve with the latest technological trends and advancements.
 </div>
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
