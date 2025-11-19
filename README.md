@@ -37,9 +37,6 @@ _React • Next.js • HTML • CSS • JavaScript • Responsive UI/UX_
 **🚀 AI & APIs**
 _OpenAI API • Function Calling • Dynamic, real-time interactions_
 
-**📊 Project Enhancements**
-_Sleek interfaces • Smooth animations • User-friendly designs • Performance optimization_
-
 </td>
 <td width="50%" valign="top">
 
@@ -53,9 +50,6 @@ _[My Portfolio](https://elalj-mohamed.vercel.app/)_
 
 **📧 Contact**
 *elaljooo@gmail.com*
-
-**📄 Resume**
-_[View Profile](https://acrobat.adobe.com/id/urn:aaid:sc:EU:e4e7af8a-2878-4f91-995b-7afaaba5d104)_
 
 </td>
 </tr>
